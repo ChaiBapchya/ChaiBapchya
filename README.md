@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Large Tensor Support [int64] in Apache MXNet
+- 🔭 I’m currently working on data parallel distributed training on AWS Sagemaker
 - 🌱 I’m currently learning more about Podcasts.
 - 👯 I’m looking to collaborate on innovating in the space of Podcast Delivery, Content Management and Analytics.
 - 🤔 I’m looking for help with ideas for product development and marketing.
